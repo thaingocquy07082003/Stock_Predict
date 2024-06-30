@@ -26,8 +26,25 @@ It allows developers and test automation engineers to execute tests and interact
 
 
 ## I. Overall this applications
+
 - model AI : LSTM  ( Long short term memory ).
 - 💻Tech Stack : tensorflow , keras , sklearn , selenium - language Python.
 - Collab Notebook.
 
 ## II. Demo Production
+
+**DATASET** 
+
+![](./doc/1.png)
+
+**Result** 
+
+![](./doc/2.png)
+
+![](./doc/3.png)
+
+![](./doc/4.png)
+
+![](./doc/5.png)
+
+![](./doc/6.png)
